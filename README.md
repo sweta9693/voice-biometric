@@ -1,2 +1,3 @@
-# voice-biometric
-Voice bio metric is a project which takes the voice from the user saves the audio after that when the particular user contacts with bank it will verify the voice and then continue according to the users need. 
+# Voice-Biometrics
+This project was made with a vision to improve biometric security in our laptops
+Although it isn't implemented that way, the project was for research and development purpose of the machine learning modelling used  for recognizing the speaker
